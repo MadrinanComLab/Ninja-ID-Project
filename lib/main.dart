@@ -31,7 +31,10 @@ class NinjaCard extends StatelessWidget {
               ),
             ),
 
-            Divider(),
+            Divider(
+              height: 60.0,
+              color: Colors.grey[600]
+            ),
 
             Text(
               "NAME",
