@@ -1,4 +1,4 @@
-# flutter_project_exp_1
+# Flutter - Ninja ID Project
 
 Flutter project based on The Net Ninja Tutorial
 
