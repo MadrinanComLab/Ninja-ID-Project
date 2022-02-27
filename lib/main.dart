@@ -47,7 +47,7 @@ class NinjaCard extends StatelessWidget {
             SizedBox(height: 10.0),
 
             Text(
-              "Your name", // John Clifford R. Madriñan
+              "Your Name",
               style: TextStyle(
                 color: Colors.amberAccent[200],
                 letterSpacing: 2.0,
@@ -90,7 +90,7 @@ class NinjaCard extends StatelessWidget {
                 SizedBox(width: 10.0),
 
                 Text(
-                  "Your Email Address", // johncliffordmadrinan838@gmail.com
+                  "Your Email Address",
                   style: TextStyle(
                     color: Colors.grey[400],
                     fontSize: 10.0,
